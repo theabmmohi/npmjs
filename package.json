@@ -1,0 +1,7 @@
+{
+  "name": "theabmmohi",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Hello, Im ABM.",
+  "bin": "src/index.js"
+}
